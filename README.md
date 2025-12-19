@@ -87,7 +87,7 @@ Created comprehensive dashboards using Excel, Power BI, and Tableau for business
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekmohan01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmohan01&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abhishekmohan01&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
@@ -169,7 +169,7 @@ Created comprehensive dashboards using Excel, Power BI, and Tableau for business
 I'm always open to interesting conversations, collaborations, and opportunities to learn. Feel free to reach out!
 
 - 💼 **LinkedIn:** [Abhishek Mohan](https://www.linkedin.com/in/abhishek---mohan/)
-- 📧 **Email:** abhishek5489@outlook.com
+- 📧 **Email:** [abhishek5489@outlook.com](mailto:abhishek5489@outlook.com)
 - 🐙 **GitHub:** [@abhishekmohan01](https://github.com/abhishekmohan01)
 
 ---
